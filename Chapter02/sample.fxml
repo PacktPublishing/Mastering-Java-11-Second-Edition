@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <children>
+    <TitledPane animated="false" collapsible="false" layoutX="108.0" layoutY="49.0" text="Sample">
+      <content>
+        <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+          <children>
+            <CheckBox layoutX="26.0" layoutY="33.0" mnemonicParsing="false" prefWidth="94.0" text="CheckBox" />
+            <ColorPicker layoutX="26.0" layoutY="65.0" />
+            <Hyperlink layoutX="26.0" layoutY="103.0" text="Hyperlink" />
+            <Label alignment="CENTER" layoutX="14.0" layoutY="5.0" prefWidth="172.0" text="This is a Label" textAlignment="CENTER">
+              <font>
+                <Font size="14.0" />
+              </font>
+            </Label>
+            <Button layoutX="81.0" layoutY="146.0" mnemonicParsing="false" text="Button" />
+          </children>
+        </AnchorPane>
+      </content>
+    </TitledPane>
+  </children>
+</AnchorPane>
