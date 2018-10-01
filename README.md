@@ -72,9 +72,9 @@ He has been creating and teaching computer science courses since 2002. Edward re
 This is Edward's 10th book.
 
 ## Other books by the authors
-[Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734 )
+[Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734)
 
-[Learning AWS Lumberyard Game Development](https://www.packtpub.com/game-development/learning-aws-lumberyard-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786460868 )
+[Learning AWS Lumberyard Game Development](https://www.packtpub.com/game-development/learning-aws-lumberyard-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786460868)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
