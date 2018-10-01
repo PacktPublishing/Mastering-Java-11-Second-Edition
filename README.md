@@ -39,18 +39,11 @@ Mastering Java 11 is for experienced Java developers with a solid understanding 
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|1-15|Java SE Developer Kit 11 (JDK)|A system with 4GB RAM|
+|1-15|An Integrated Development Environment(IDE)|A system with 4GB RAM|
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789137613_ColorImages.pdf).
 
@@ -58,10 +51,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Java Projects - Second Edition [[Packt]](https://www.packtpub.com/application-development/java-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789131895 ) [[Amazon]](https://www.amazon.com/dp/B07G1B4R8B)
 
 * Design Patterns and Best Practices in Java [[Packt]](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java?utm_source=github&utm_medium=repository&utm_campaign=9781786463593 ) [[Amazon]](https://www.amazon.com/dp/B01K7M4U1U)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Dr Edward Lavieri**
