@@ -10,14 +10,12 @@ This is the code repository for [Mastering Java 11 - Second Edition](https://www
 Java 11 is a long-term release and its new features add to the richness of the language. It emphasizes variable-type inference, performance improvements, along with simplified multithreading.
 
 This book covers the following exciting features:
-Write modular Java applications 
-Migrate existing Java applications to modular ones 
-Understand how the default G1 garbage collector works 
-Leverage the possibilities provided by the newly introduced Java Shell 
-Performance test your application effectively with the JVM harness 
-Learn how Java supports the HTTP 2.0 standard 
-Find out how to use the new Process API 
-Explore the additional enhancements and features of Java 9, 10, and 11 
+* Write modular Java applications 
+* Migrate existing Java applications to modular ones 
+* Understand how the default G1 garbage collector works 
+* Leverage the possibilities provided by the newly introduced Java Shell 
+* Performance test your application effectively with the JVM harness 
+
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789137616) today!
 
@@ -37,12 +35,12 @@ public default void fastWalk() {
 **Following is what you need for this book:**
 Mastering Java 11 is for experienced Java developers with a solid understanding of the Java language and want to progress to an advanced level
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-17).
 ### Software and Hardware List
 | Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|1-15|Java SE Developer Kit 11 (JDK)|A system with 4GB RAM|
-|1-15|An Integrated Development Environment(IDE)|A system with 4GB RAM|
+|1-17|Java SE Developer Kit 11 (JDK)|A system with 4GB RAM|
+|1-17|An Integrated Development Environment(IDE)|A system with 4GB RAM|
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789137613_ColorImages.pdf).
