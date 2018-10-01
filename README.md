@@ -25,8 +25,8 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
-**Note**
-The code files present in chapter 6 and chapter 8 are just for representational purpose. They can neither be tested nor can they be validated
+**Note:**
+The code files present in chapter 6 and chapter 8 are just for representational purpose. They can neither be tested nor can they be validated.
 
 The code will look like the following:
 ```
